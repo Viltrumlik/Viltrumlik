@@ -1,4 +1,4 @@
-I'm A1isherDev, a Backend Developer and Software engineer
+I'm Viltrumlik, a Backend Developer and Software engineer
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
@@ -13,13 +13,13 @@ I'm A1isherDev, a Backend Developer and Software engineer
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:Alishermuhammadaliyev2508@gmail.com">
+  <a href="mailto:viltrumlik@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
   <a href="https://www.linkedin.com/in/alisher-muhammadaliyev-616795344">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/A1isherDev">
+  <a href="https://www.instagram.com/viltrumlik">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   <a href="https://discord.com/users/1354328698454675500">
@@ -28,11 +28,11 @@ I'm A1isherDev, a Backend Developer and Software engineer
 </p>
 
 <p align="center">
-  <a href="https://github.com/A1isherDev">
-    <img src="https://komarev.com/ghpvc/?username=A1isherDev&color=3a8296&label=Profile%20Views" />
+  <a href="https://github.com/viltrumlik">
+    <img src="https://komarev.com/ghpvc/?username=Viltrumlik&color=3a8296&label=Profile%20Views" />
   </a>
-  <a href="https://github.com/A1isherDev">
-    <img src="https://img.shields.io/github/followers/A1isherDev?label=GitHub%20Followers&color=3a8296&style=flat" />
+  <a href="https://github.com/viltrumlik">
+    <img src="https://img.shields.io/github/followers/Viltrumlik?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
 
@@ -60,13 +60,13 @@ I'm A1isherDev, a Backend Developer and Software engineer
 
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-<img src="https://streak-stats.demolab.com?user=A1isherDev&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=Viltrumlik&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
 ---
 
 ## 🏆 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=A1isherDev&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=Viltrumlik&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 
 ---
 
