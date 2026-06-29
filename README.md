@@ -1,4 +1,4 @@
-I'm Viltrumlik, a Backend Developer and Software engineer
+ I'm Viltrumlik, a Backend Developer and Software engineer
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
