@@ -62,9 +62,6 @@
 
 <img src="https://streak-stats.demolab.com?user=Viltrumlik&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/> <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Viltrumlik&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Viltrumlik&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viltrumlik&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
   <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
     <img width="400px" alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/viltrumlik?theme=tokyonight" />
 
