@@ -62,9 +62,22 @@
 
 <img src="https://streak-stats.demolab.com?user=Viltrumlik&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/> <br/>
 
-  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
-    <img width="400px" alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/viltrumlik?theme=tokyonight" />
+  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">
+    <img width="400px" alt="Viltrumlik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/viltrumlik?theme=tokyonight" />
+  </a>
 
+<br clear="all"/>
+
+<div align="center">
+
+![](https://github.com/Viltrumlik/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Viltrumlik/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Viltrumlik/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Viltrumlik/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
+</div>
 
 ---
 
