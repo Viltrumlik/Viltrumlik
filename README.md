@@ -1,96 +1,173 @@
- I'm Viltrumlik, a Backend Developer and Software engineer
-
-💡 *“Crafting logic and elegance in every line of code.”*
-
----
-
 <div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091519,60:3a8296,100:61DAFB&height=190&section=header&text=Alisher%20Muhammadaliyev&fontSize=40&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Fergana,%20Uzbekistan&descSize=16&descAlignY=55" width="100%" />
+
+<p>
+  <a href="https://gitscore.live/Viltrumlik"><img src="https://gitscore.live/api/badge/Viltrumlik?style=flat" alt="GitScore" /></a>
+  <img src="https://img.shields.io/github/followers/Viltrumlik?label=Followers&color=3a8296&labelColor=091519&style=flat" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Viltrumlik&color=3a8296&label=Profile+views" alt="Profile views" />
+</p>
+
+<p>
+  <a href="mailto:viltrumlik@gmail.com"><img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" /></a>
+  <a href="https://www.linkedin.com/in/alisher-muhammadaliyev-616795344"><img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" /></a>
+  <a href="https://www.instagram.com/viltrumlik"><img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" /></a>
+  <a href="https://discord.com/users/1354328698454675500"><img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" /></a>
+</p>
+
 </div>
 
 ---
 
-### 📬 Connect with Me  
+## whoami
 
-<p align="center">
-  <a href="mailto:viltrumlik@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.linkedin.com/in/alisher-muhammadaliyev-616795344">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.instagram.com/viltrumlik">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
-  </a>
-  <a href="https://discord.com/users/1354328698454675500">
-    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
-  </a>
-</p>
+Backend developer from **Fergana, Uzbekistan**, building education software at **MasterSAT**.
 
-<p align="center">
-  <a href="https://github.com/viltrumlik">
-    <img src="https://komarev.com/ghpvc/?username=Viltrumlik&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/viltrumlik">
-    <img src="https://img.shields.io/github/followers/Viltrumlik?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
+I spend most of my time in Python and TypeScript, but I follow the problem rather than the language — a macOS menu bar needed Swift, a stats generator was a good excuse to learn Zig, and a Telegram webhook bot turned out cleanest in plain PHP with no framework at all.
+
+```yaml
+location:  Fergana, Uzbekistan
+work:      MasterSAT — exam platforms and school tooling
+focus:     Django REST APIs · Next.js frontends · developer tooling
+learning:  distributed systems, Swift concurrency, Zig
+```
 
 ---
 
-### 🧠 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,django,html,css,bootstrap,docker,postgresql&theme=light" />
-  </a>
-</p>
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [parallel-agents](https://github.com/Viltrumlik/parallel-agents)
+![Python](https://img.shields.io/badge/Python-091519?style=flat-square&logo=python&logoColor=61DAFB)
+
+Run Claude Code, Codex, Cursor and Gemini CLI on the same repository without them overwriting each other.
+
+</td>
+<td width="50%" valign="top">
+
+### [Cooldown](https://github.com/Viltrumlik/Cooldown)
+![Swift](https://img.shields.io/badge/Swift-091519?style=flat-square&logo=swift&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-091519?style=flat-square&logo=swift&logoColor=61DAFB)
+
+Menu bar app for developer Macs — thermal throttling, memory and disk at a glance, plus one-click cleanup of Xcode DerivedData, simulators and package caches.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [DarsPro](https://github.com/Viltrumlik/DarsPro)
+![Next.js](https://img.shields.io/badge/Next.js-091519?style=flat-square&logo=nextdotjs&logoColor=61DAFB)
+![DRF](https://img.shields.io/badge/DRF-091519?style=flat-square&logo=django&logoColor=61DAFB)
+
+Game platform for Uzbek schoolteachers. Teachers enter their questions, the engines turn them into original games, and the class plays together in real time.
+
+</td>
+<td width="50%" valign="top">
+
+### [telegram_spectator](https://github.com/Viltrumlik/telegram_spectator)
+![PHP](https://img.shields.io/badge/PHP-091519?style=flat-square&logo=php&logoColor=61DAFB)
+
+Webhook bot for Telegram Business accounts — logs edited and deleted messages and timed media, with a quiz builder, translator and currency tools bolted on.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [github-stats](https://github.com/Viltrumlik/github-stats)
+![Zig](https://img.shields.io/badge/Zig-091519?style=flat-square&logo=zig&logoColor=61DAFB)
+
+GitHub statistics rendered to SVG. The cards further down this page are generated by it.
+
+</td>
+<td width="50%" valign="top">
+
+### [prices_bot](https://github.com/Viltrumlik/prices_bot)
+![Python](https://img.shields.io/badge/Python-091519?style=flat-square&logo=python&logoColor=61DAFB)
+
+Posts Bitcoin and TON prices to a Telegram channel every three minutes.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚙️ Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
-  </a>
-</p>
+## Tech
+
+<table>
+<tr><td><b>Languages</b></td><td>
+
+[![](https://skillicons.dev/icons?i=python,ts,js,swift,dart,php,cpp,zig&theme=dark)](https://skillicons.dev)
+
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+
+[![](https://skillicons.dev/icons?i=django,nodejs,postgres,redis,docker&theme=dark)](https://skillicons.dev)
+
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+
+[![](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+
+</td></tr>
+<tr><td><b>Apps</b></td><td>
+
+[![](https://skillicons.dev/icons?i=swift,flutter&theme=dark)](https://skillicons.dev)
+
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+
+[![](https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark)](https://skillicons.dev)
+
+</td></tr>
+</table>
 
 ---
 
-### 📊 GitHub Statistics
-
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-<img src="https://streak-stats.demolab.com?user=Viltrumlik&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/> <br/>
-
-  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">
-    <img width="400px" alt="Viltrumlik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/viltrumlik?theme=tokyonight" />
-  </a>
-
-<br clear="all"/>
+## Stats
 
 <div align="center">
 
-![](https://github.com/Viltrumlik/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Viltrumlik/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/Viltrumlik/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/Viltrumlik/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/Viltrumlik/github-stats/generated/overview.svg" alt="Overview" width="49%" />
+<img src="https://raw.githubusercontent.com/Viltrumlik/github-stats/generated/languages.svg" alt="Languages" width="49%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Viltrumlik&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" alt="Streak" width="60%" />
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
 <a href="https://gitscore.live/Viltrumlik">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/Viltrumlik?style=card&theme=dark" />
-    <img src="https://gitscore.live/api/badge/Viltrumlik?style=card" alt="GitScore for Viltrumlik" />
-  </picture>
+  <img src="https://img.shields.io/badge/Builder-10%2B_original_repositories-3a8296?style=flat-square&labelColor=091519" />
+  <img src="https://img.shields.io/badge/On_Fire-active_20%2B_days_in_30-3a8296?style=flat-square&labelColor=091519" />
+  <img src="https://img.shields.io/badge/Open_Source_Contributor-10%2B_PRs_merged_elsewhere-3a8296?style=flat-square&labelColor=091519" />
+  <br/>
+  <img src="https://img.shields.io/badge/Code_Reviewer-20%2B_PR_reviews_in_a_year-3a8296?style=flat-square&labelColor=091519" />
+  <img src="https://img.shields.io/badge/Gist_Guru-20%2B_public_gists-3a8296?style=flat-square&labelColor=091519" />
+  <img src="https://img.shields.io/badge/Multilingual-starred_repos_in_3%2B_languages-3a8296?style=flat-square&labelColor=091519" />
 </a>
 
+<sub>Tracked by <a href="https://gitscore.live/Viltrumlik">gitscore.live</a></sub>
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
-</p>
+<div align="center">
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,40:3a8296,100:091519&height=110&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&fontAlignY=78&animation=twinkling" width="100%" />
+
+</div>
