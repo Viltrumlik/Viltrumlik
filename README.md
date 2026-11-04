@@ -74,6 +74,12 @@
 ![](https://github.com/Viltrumlik/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/Viltrumlik/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/Viltrumlik/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+<a href="https://gitscore.live/Viltrumlik">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/Viltrumlik?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/Viltrumlik?style=card" alt="GitScore for Viltrumlik" />
+  </picture>
+</a>
 
 
 </div>
