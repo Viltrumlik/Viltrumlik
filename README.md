@@ -31,7 +31,7 @@
 
 ## 🧑‍💻 whoami
 
-Backend developer from **Fergana, Uzbekistan**, building education software at **MasterSAT**. Outside work I build Telegram bots and Mini Apps, web apps and small developer tools.
+Backend developer from **Fergana, Uzbekistan**, building education software at **MasterSAT**. Outside work I build Telegram bots and Mini Apps, web apps, small developer tools and games.
 
 I spend most of my time in Python and TypeScript, but I follow the problem rather than the language — a macOS menu bar needed Swift, a stats generator was a good excuse to learn Zig, and a Telegram webhook bot turned out cleanest in plain PHP with no framework at all.
 
@@ -131,12 +131,55 @@ More, including Telegram bots like [prices_bot](https://github.com/Viltrumlik/pr
 
 ---
 
+## 🎮 Games
+
+Original simulators, each fully playable in Uzbek, Russian and English, with a design document and tests.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Last Shore](https://github.com/Viltrumlik/last-shore) · [▶ play](https://viltrumlik.github.io/last-shore/)
+![TypeScript](https://img.shields.io/badge/TypeScript-091519?style=flat-square&logo=typescript&logoColor=61DAFB)
+![Canvas 2D](https://img.shields.io/badge/Canvas_2D-091519?style=flat-square&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-091519?style=flat-square&logo=vite&logoColor=61DAFB)
+
+Pixel-art survival city-builder about a fishing town on a drying sea: 40 seasons of water, salt and cotton quotas, and 7 endings. Runs in the browser on desktop and phone.
+
+<a href="https://viltrumlik.github.io/last-shore/"><img src="https://raw.githubusercontent.com/Viltrumlik/last-shore/main/docs/screenshots/game.png" alt="Last Shore" width="100%" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### [Karvonboshi](https://github.com/Viltrumlik/karvon-bot)
+![Python](https://img.shields.io/badge/Python-091519?style=flat-square&logo=python&logoColor=61DAFB)
+![aiogram 3](https://img.shields.io/badge/aiogram_3-091519?style=flat-square&logo=telegram&logoColor=61DAFB)
+
+Silk Road trading roguelite played inside a Telegram chat with inline buttons: 7 cities, a market that reacts to every trade, a debt due on day 100 and 8 endings.
+
+### [Night Express](https://github.com/Viltrumlik/night-express)
+![Go](https://img.shields.io/badge/Go-091519?style=flat-square&logo=go&logoColor=61DAFB)
+
+Text-adventure mystery on an overnight train in 1979. Every choice costs minutes before the 06:00 arrival: 50 scenes, 8 endings, all checked by an exhaustive state-space solver.
+
+### [Dispatch 112](https://github.com/Viltrumlik/dispatch-112)
+![Rust](https://img.shields.io/badge/Rust-091519?style=flat-square&logo=rust&logoColor=61DAFB)
+![ratatui](https://img.shields.io/badge/ratatui-091519?style=flat-square&logoColor=61DAFB)
+
+Real-time emergency-dispatch sim in the terminal: read the calls, send the right units, dismiss the pranks and catch an arsonist over five night shifts.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🧠 Tech
 
 <table>
 <tr><td><b>Languages</b></td><td>
 
-[![](https://skillicons.dev/icons?i=python,ts,js,swift,dart,php,cpp,zig&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,ts,js,go,rust,swift,dart,php,cpp,zig&theme=dark)](https://skillicons.dev)
 
 </td></tr>
 <tr><td><b>Backend</b></td><td>
